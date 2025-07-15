@@ -2,10 +2,7 @@
   "versions": [
     {
       "version": "1.2",
-      "note": [
-        "Bản phát hành thử nghiệm kết nối cập nhật.",
-        "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
-        ],
+      "note": "Bản phát hành thử nghiệm kết nối cập nhật.",
       "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v1.2/v1.2.zip"
     },
     {
