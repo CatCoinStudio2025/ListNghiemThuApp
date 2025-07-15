@@ -1,9 +1,12 @@
 {
   "versions": [
     {
-      "version": "2.0",
-      "note": "Bản cập nhật lớn",
-      "downloadUrl": "https://github.com/yourusername/CatCoinApp-Releases/releases/download/v2.0/CatCoinApp_v2.0.zip"
+      "version": "1.2",
+      "note": [
+        "Bản phát hành thử nghiệm kết nối cập nhật.",
+        "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
+        ],
+      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v0.1/v0.1.zip"
     },
     {
       "version": "1.0",
