@@ -1,5 +1,5 @@
 {
-    "lblHelper": [
+    "lblhelper": [
         "- Mở File List nghiệm thu cũ trước, trong trường hợp là công trình mới thì tick chọn 'Tạo kèm bảng mẫu' đẻ tạo bảng mới.",
         "Sau đó 'Khởi chạy' để mở AddIn ListNghiemThu.",
         "- Các thao tác sau sẽ được thực hiện trên File Excel của dự án.",
