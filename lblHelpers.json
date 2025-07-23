@@ -3,8 +3,10 @@
         "- Mở File List nghiệm thu cũ trước, trong trường hợp là công trình mới thì tick chọn 'Tạo kèm bảng mẫu' đẻ tạo bảng mới.",
         "Sau đó 'Khởi chạy' để mở AddIn ListNghiemThu.",
         "- Các thao tác sau sẽ được thực hiện trên File Excel của dự án.",
-        "- Chọn phiên bản 'Demo' để xem thử dự án mẫu và tìm hiểu các tính năng.",
+        "- Chọn phiên bản 'Demo' + Tạo bảng mẫu để xem thử dự án mẫu và tìm hiểu các tính năng.",
         "- Các hướng dẫn còn lại có thể được tìm thấy sau khi vào phần mềm AddIn chính.",
+        "- Với các phiên bản cũ được phát hành trước phiên bản 'v2.0'. trong sheet 'List Nghiem Thu', sửa ô A0 = 'A0000'",
+        " ",
         "Chúc các bạn sử dụng phần mềm hiệu quả. Hãy báo cho chúng tôi về các lỗi mà bạn gặp phải hoặc tính năng muốn bổ sung."
     ]
 }
