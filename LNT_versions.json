@@ -1,28 +1,20 @@
 {
-  "latest": "1.2",
+  "latest": "2.0",
   "Versions": [
     {
-      "Version": "1.2",
+      "Version": "2.0",
       "Notes": [
-        "Bản phát hành thử nghiệm kết nối cập nhật",
-        "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
+        "AddIn xây dựng trên kiến trúc .NET 8",
+        "Kèm Launcher tự động cập nhật AddIn",
+	      "Bổ sung tính năng Mailing nhanh"
     ],
-      "Created": "2023-07-15",
-      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v1.2/v1.2.zip"
-    },
-    {
-      "Version": "1.0",
-      "Notes": [
-        "Bản phát hành thử nghiệm kết nối",
-        "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
-    ],
-      "Created": "2023-07-12",
-      "downloadUrl": "https://github.com/yourusername/CatCoinApp-Releases/releases/download/v1.0/CatCoinApp_v1.0.zip"
+      "Created": "24-07-2025",
+      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v2.0/v2.0.zip"
     },
     {
       "Version": "0.1",
       "Notes": [
-        "Bản phát hành thử nghiệm kết nối",
+        "Bản phát hành thử nghiệm mẫu Demo",
         "Các tính năng được thêm sau sẽ được cập nhật vào phiên bản tương ứng."
     ],
       "Created": "2023-07-10",
