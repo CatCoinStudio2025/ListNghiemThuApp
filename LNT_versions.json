@@ -1,18 +1,16 @@
 {
   "latest": "2.1",
-  "Versions": [
-	  
+  "Versions": [	  
     {
-    "Version": "2.1",
-    "Notes": [
+      "Version": "2.1",
+      "Notes": [
         "Cải thiện giao diện người dùng",
         "Thêm nhắc đóng file mẫu",
-	"Thêm kiểm tra ngày tháng trước khi tạo báo cáo"
+	"Kiểm tra ngày tháng trước khi tạo báo cáo"
     ],
-    "Created": "05-08-2025",
-    "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v2.1/v2.1.zip"
+      "Created": "05-08-2025",
+      "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v2.1/v2.1.zip"
     },
-	  
     {
       "Version": "2.0",
       "Notes": [
@@ -23,7 +21,6 @@
       "Created": "24-07-2025",
       "downloadUrl": "https://github.com/CatCoinStudio2025/ListNghiemThuApp/releases/download/v2.0/v2.0.zip"
     },
-	  
     {
       "Version": "0.1",
       "Notes": [
